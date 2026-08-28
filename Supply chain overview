@@ -1,0 +1,15 @@
+Supply Chain Operations Analysis
+
+Project Overview
+
+An Excel-based supply chain dashboard focused on analyzing operational performance, shipping efficiency, and order fulfillment patterns.
+
+Key Insights
+
+- Office Supplies and Electronics drive the majority of total sales.
+- Warehouse South holds the highest inventory level and fastest delivery speed.
+- Delayed and cancelled orders highlight key areas for operational improvement.
+
+Tools Used
+
+Excel | Pivot Tables | Pivot Charts | Interactive Slicers
